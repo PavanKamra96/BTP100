@@ -3,8 +3,8 @@ Programming Fundamentals Using C - These are Labs and Assignments that I complet
 
 ## LAB #1 
 ### Compiling information: 
-  Compile: gcc firstCprogram.c <br>
+  Compile: gcc firstCProgram.c <br>
   Run: a.out 
 
-  Compile: gcc firstCprogram.c -o firstCprogram <br>
-  Run: firstCprogram 
+  Compile: gcc firstCProgram.c -o firstCProgram <br>
+  Run: firstCProgram 
