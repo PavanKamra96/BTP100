@@ -71,11 +71,3 @@ FILE * openWrite(char fName[]) {
   } else
     return fpout;
 }
-Record one
-Record Two
-record three
-
-RECORD ONE
-RECORD TWO
-RECORD THREE
-�
